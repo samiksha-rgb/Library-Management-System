@@ -1,0 +1,121 @@
+================================
+ LIBRARY MANAGEMENT SYSTEM 
+================================
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 1
+Enter Book ID: 101
+Enter Title: java programming
+Enter Author: Ravikumar
+Book Added Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 1
+Enter Book ID: 102
+Enter Title: Database Management
+Enter Author: Nilesh jadhav
+Book Added Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 1
+Enter Book ID: 103
+Enter Title: Computer Networking
+Enter Author: R.N.Shankar
+Book Added Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 2
+
+===== BOOK LIST =====
+--------------------------------
+Book ID : 101
+Title   : java programming
+Author  : Ravikumar
+Status  : Available
+--------------------------------
+Book ID : 102
+Title   : Database Management
+Author  : Nilesh jadhav
+Status  : Available
+--------------------------------
+Book ID : 103
+Title   : Computer Networking
+Author  : R.N.Shankar
+Status  : Available
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 4
+Enter Book ID to Issue: 102
+Book Issued Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 5
+Enter Book ID to Return: 102
+Book Returned Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 6
+Enter Book ID to Delete: 103
+Book Deleted Successfully!
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 7
+Available Books: 2
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Count Available Books
+8. Exit
+Enter Choice: 8
+Thank You!
